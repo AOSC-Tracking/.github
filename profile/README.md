@@ -1,10 +1,10 @@
-Welcome to the AOSC Code Tracking Project!
+Welcome!
 ====
 
 Here you will find a collection of project for which we maintain patches. These
 projects will be tracked here as ports.
 
-How to find and generate patchsets
+Finding and Generating Patches
 ----
 
 We name AOSC tracking branches as follows.
