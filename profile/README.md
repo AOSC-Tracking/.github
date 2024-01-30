@@ -1,7 +1,7 @@
 Welcome!
 ====
 
-Here you will find a collection of project for which we maintain patches. These
+Here you will find a collection of projects for which we maintain patches. These
 projects will be tracked here as ports.
 
 Finding and Generating Patches
