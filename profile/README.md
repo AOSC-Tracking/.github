@@ -2,7 +2,7 @@ Welcome!
 ====
 
 Here you will find a collection of projects for which we maintain patches. These
-projects will be tracked here as ports.
+projects will be tracked here as repositories.
 
 Finding and Generating Patches
 ----
